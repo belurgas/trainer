@@ -4,3 +4,5 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+burn = { version = "0.17.1", features = ["wgpu"] }
+ndarray = "0.16.0"
